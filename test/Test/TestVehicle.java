@@ -1,4 +1,4 @@
-package MyTest;
+package Test;
 
 import vehicles.Car;
 import vehicles.Motorbike;
